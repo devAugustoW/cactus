@@ -14,7 +14,6 @@ body {
    background-color: hsl(228, 6%, 8%);
    color: hsl(228, 8%, 70%);
    overflow-x: hidden;
-   padding-right: .5rem;
 }
 h1, h2, h3, h4 {
    color: hsl(228, 8%, 98%);
@@ -201,7 +200,7 @@ img {
 }
 .home__data{
    max-width: 36rem;
-   min-width: 32rem;
+   min-width: 22rem;
    height: auto;
    display: flex;
    flex-direction: column;
@@ -508,31 +507,33 @@ img {
 
 }
 @media screen and (max-width: 760px){
+   .header{
+      padding: 1rem;
+   }
    .home__container{
       display: flex;
       flex-direction: column;
       row-gap: 1rem;
       align-items: center;
+      padding: 0 .5rem;
    }
    .home__img{
       width: 19rem;
    }
    .home__data{
-
       text-align: center;
    }
    .home__title{
-      font-size: 2.75rem;
+      font-size: 2.55rem;
    }
    .home__description{
       font-size: 1rem;
       line-height: 1.5rem;
       letter-spacing: .8px;
-   
       height: auto;
-
       margin: 0 auto;
       display: inline-block;
+      width: 100%;
    }
    .home__buttons{
       margin-top: 1rem;
