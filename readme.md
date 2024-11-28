@@ -1,14 +1,11 @@
 # Projeto Cactus 🌵
-Projeto moderno inspirado pelo tutorial do YouTube Bedimcode, dedicado a praticar conceitos de programação em CSS e JavaScript.
-
-## Descrição
 Este projeto é uma implementação prática dos conceitos aprendidos no tutorial do YouTube Bedimcode. O foco principal foi aprimorar habilidades em design responsivo, UI/UX e escrita de código limpo em HTML, CSS e JavaScript.
 
-## Funcionalidades Principais
-- Design Moderno: Utiliza conceitos de design moderno para criar uma experiência visualmente atraente e funcional.
-- Responsividade: O layout é completamente responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos.
-- Conceitos de UI/UX: Ênfase na experiência do usuário com layouts intuitivos, animações e navegação fluente.
-- HTML, CSS e JavaScript: O projeto é desenvolvido utilizando as linguagens de marcação HTML, estilização e animações com CSS e interatividade com JavaScript.
+## Principais Conceitos do Projeto
+- Design Moderno
+- Responsividade
+- Conceitos de UI/UX
+- HTML, CSS e JavaScript
 
 ## Projeto
 O projeto pode ser visuzliado no link abaixo:</br>
