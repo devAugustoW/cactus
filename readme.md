@@ -1,5 +1,8 @@
 # Projeto Cactus 🌵
-[video-cactus.webm](https://github.com/user-attachments/assets/fe11b019-df2f-452e-9bb9-4c90f5ba75cf)
+<video width="700" height="400" controls>
+  <source src="https://github.com/user-attachments/assets/fe11b019-df2f-452e-9bb9-4c90f5ba75cf" type="video/webm">
+  Seu navegador não suporta a tag de vídeo.
+</video>
 
 Este projeto é uma implementação prática dos conceitos aprendidos no tutorial do YouTube Bedimcode. O foco principal foi aprimorar habilidades em design responsivo, UI/UX e escrita de código limpo em HTML, CSS e JavaScript.
 
